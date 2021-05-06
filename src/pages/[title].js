@@ -6,7 +6,7 @@ import {
     Grid,
     Paper,
     Typography,
-    useMediaQuery
+    useMediaQuery,
 } from '@material-ui/core';
 import { Edit as EditIcon, Print as PrintIcon, YouTube as YouTubeIcon } from '@material-ui/icons';
 import { Base64 } from 'js-base64';

@@ -1,16 +1,17 @@
-import { Box, Button, Divider, Grid, Typography, useMediaQuery } from '@material-ui/core';
+import { Box, Button, Divider, Grid, Paper, Typography, useMediaQuery } from '@material-ui/core';
 import {
     Code as CodeIcon,
     DataUsage as DataUsageIcon,
     Print as PrintIcon,
     ShowChart as ShowChartIcon,
+    YouTube as YouTubeIcon,
 } from '@material-ui/icons';
 import Head from 'next/head';
 import { useRef, useState } from 'react';
 import { useReactToPrint } from 'react-to-print';
 import printStyle from '../../styles/print.module.css';
 import AlertInfo from '../components/AlertInfo';
-import TopicsList from '../components/Content/List';
+import ContentList from '../components/Content/List';
 import Layout from '../components/Layout';
 import Thumbnail from '../components/Thumbnail';
 import { description, image, shortTitle, title } from '../data.json';
@@ -69,7 +70,23 @@ function Home() {
                 <Box paddingTop="1rem" paddingBottom="1rem">
                     <Grid container spacing={2}>
                         <Grid item sm={3}>
-                            {!isMobile && <TopicsList />}
+                            {!isMobile && (
+                                <Paper>
+                                    <ContentList />
+                                    <Box padding="0.5rem">
+                                        <Button
+                                            size="large"
+                                            startIcon={<YouTubeIcon />}
+                                            fullWidth
+                                            variant="outlined"
+                                        >
+                                            <Typography variant="subtitle1">
+                                                সাবস্ক্রাইব করুন
+                                            </Typography>
+                                        </Button>
+                                    </Box>
+                                </Paper>
+                            )}
                         </Grid>
                         <Grid item sm={9}>
                             {process.env.IS_COURSE_COMPLETED === 'false' && <AlertInfo />}

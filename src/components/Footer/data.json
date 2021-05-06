@@ -1,0 +1,80 @@
+{
+  "languages": [
+    {
+      "name": "জাভাস্ক্রিপ্ট",
+      "url": "/javascript"
+    },
+    {
+      "name": "টাইপস্ক্রিপট",
+      "url": "/typescript"
+    },
+    {
+      "name": "রিয়েক্ট জেএস",
+      "url": "/reactjs"
+    },
+    {
+      "name": "রিয়েক্ট নেটিভ",
+      "url": "/react-native"
+    },
+    {
+      "name": "নোড জেএস",
+      "url": "/nodejs"
+    }
+  ],
+  "resources": [
+    {
+      "name": "প্রোগ্রামিং",
+      "url": "/programming"
+    },
+    {
+      "name": "ডাটা স্ট্রাকচার",
+      "url": "/datastructure"
+    },
+    {
+      "name": "অ্যালগরিদম",
+      "url": "/algorithm"
+    },
+    {
+      "name": "জনপ্রিয় প্রযুক্তি",
+      "url": "/technologies"
+    },
+    {
+      "name": "ব্লগ",
+      "url": "/blog"
+    }
+  ],
+  "organization": [
+    {
+      "name": "আমাদের সম্পর্কে",
+      "url": "/about-us"
+    },
+    {
+      "name": "আমাদের লেখকগণ",
+      "url": "/our-authors"
+    },
+    {
+      "name": "কন্ট্রিবিউশন",
+      "url": "/contribution"
+    },
+    {
+      "name": "ব্যবহারবিধি এবং নীতিমালা",
+      "url": "/terms-conditions"
+    },
+    {
+      "name": "ইউটুব",
+      "url": "https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ"
+    }
+  ],
+  "links": [
+    { "name": "facebook", "href": "https://facebook.com/InformativeCoding" },
+    {
+      "name": "linkedin",
+      "href": "https://www.linkedin.com/company/informativecoding"
+    },
+    { "name": "github", "href": "https://github.com/InformativeCoding" },
+    {
+      "name": "youtube",
+      "href": "https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+/* English Fonts */
+@font-face {
+  font-family: enOneFont;
+  src: url("/static/fonts/en/sourcesanspro/sourcesanspro/SourceSansPro-Regular.ttf");
+}
+@font-face {
+  font-family: enTwoFont;
+  src: url("/static/fonts/en/spacemono/spacemono/SpaceMono-Regular.ttf");
+}
+/* Bangla Fonts */
+@font-face {
+  font-family: bnTitleFontOne;
+  src: url("/static/fonts/bn/ShohidBarkat/Unicode/Li Shohid Barkat Unicode.ttf");
+}
+@font-face {
+  font-family: bnTitleFontTwo;
+  src: url("/static/fonts/bn/AdorShurobhi/Unicode/Li Ador Shurobhi Unicode.ttf");
+}
+@font-face {
+  font-family: bnParaFontOne;
+  src: url("/static/fonts/bn/Kalpurush/Kalpurush-Regular.ttf");
+}
+@font-face {
+  font-family: bnParaFontTwo;
+  src: url("/static/fonts/bn/Nikosh/Nikosh-Regular_jvTyYV3.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.titleFont {
+  font-family: bnTitleFontOne, bnTitleFontTwo !important;
+  color: #353747;
+}
+p {
+  font-family: bnParaFontOne, bnParaFontTwo !important;
+  font-size: 1.25rem !important;
+  color: #4d4f5d;
+}
+/* Global Style For Table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th,
+table td {
+  border: 1px solid #d5d5d5;
+  padding: 0.5rem;
+  text-align: left !important;
+}
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+table tr:hover {
+  background-color: #ddd;
+}
+table th {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  background-color: #282a36;
+  color: #ffffff;
+}
+.myRR {
+  font-family: bnTitleFontOne, bnTitleFontTwo !important;
+}

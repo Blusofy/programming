@@ -1,0 +1,15 @@
+{
+  "title": "Lorem",
+  "shortTitle": "Lorem ipsum dolor sit ame",
+  "description": [
+    {
+      "title": "Lorem ipsum dolor sit ame",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis est sed omnis maiores! Dicta at fugiat, deserunt esse tempora, perspiciatis vitae facilis ratione sunt eligendi maiores nesciunt animi. Laboriosam temporibus impedit voluptas et fugit natus, quod voluptates. Facilis tenetur amet molestiae excepturi tempore porro voluptatum eveniet ratione, quo facere mollitia!Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis est sed omnis maiores! Dicta at fugiat, deserunt esse tempora, perspiciatis vitae facilis ratione sunt eligendi maiores nesciunt animi. Laboriosam temporibus impedit voluptas et fugit natus, quod voluptates. Facilis tenetur amet molestiae excepturi tempore porro voluptatum eveniet ratione, quo facere mollitia!"
+    },
+    {
+      "title": "ভুলভ্রান্তি সম্পর্কে",
+      "paragraph": "টিউটোরিয়াল গুলি তৈরি করার সময় অনিচ্ছাকৃতভাবে অনেক ভুল হয়ে থাকে। আর সে ভুল গুলি শুধরিয়ে দেওয়ার দায়িত্য হচ্ছে আপনাদের। আপনার সামান্য কান্ট্রিবিউশনের কারণে অনেক মানুষ হয়তো এই ভুল গুলি থেকে বেঁচে যেতে পারে। যদি কোনো ভুলভ্রান্তি তথ্য বা বানানগত ভুল পেয়ে থাকেন অনুগ্রহ করে আমাদের অফিসিয়াল গিটহাব প্রোফাইলে গিয়ে পুল রিকোয়েস্টের মাধ্যমে ভুল গুলি শুধরিয়ে দিয়ে ধন্য করবেন বলে আশা করছি। ধন্যবাদ।"
+    }
+  ],
+  "image": "/static/icons/js.png"
+}

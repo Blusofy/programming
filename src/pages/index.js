@@ -17,11 +17,11 @@ import { description, image, shortTitle, title } from '../data.json';
 
 const getIcon = (iconName) => {
     switch (iconName) {
-        case 'Programming':
+        case 'প্রোগ্রামিং':
             return CodeIcon;
-        case 'Data Structure':
+        case 'ডাটা স্ট্রাকচার':
             return DataUsageIcon;
-        case 'Algorithm':
+        case 'অ্যালগরিদম':
             return ShowChartIcon;
         default:
             return false;

@@ -1,15 +1,15 @@
 {
-  "title": "Lorem",
-  "shortTitle": "Lorem ipsum dolor sit ame",
+  "title": "প্রোগ্রামিং",
+  "shortTitle": "যদি প্রোগ্রামিং শুরু করার কথা ভেবে থাকেন তাহলে এটি আপনার জন্য। প্রোগ্রামিং এর মূল বিষয় গুলো সম্পর্কে প্রাথমিক পর্যায় থেকে বিস্তারিত আলোচনা করা হয়েছে।",
   "description": [
     {
-      "title": "Lorem ipsum dolor sit ame",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis est sed omnis maiores! Dicta at fugiat, deserunt esse tempora, perspiciatis vitae facilis ratione sunt eligendi maiores nesciunt animi. Laboriosam temporibus impedit voluptas et fugit natus, quod voluptates. Facilis tenetur amet molestiae excepturi tempore porro voluptatum eveniet ratione, quo facere mollitia!Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis est sed omnis maiores! Dicta at fugiat, deserunt esse tempora, perspiciatis vitae facilis ratione sunt eligendi maiores nesciunt animi. Laboriosam temporibus impedit voluptas et fugit natus, quod voluptates. Facilis tenetur amet molestiae excepturi tempore porro voluptatum eveniet ratione, quo facere mollitia!"
+      "title": "এই টিউটোরিয়াল সম্পর্কে",
+      "paragraph": "আসসালামু আলাইকুম। প্রোগ্রামিং এর টিউটোরিয়ালে আপনাকে স্বাগতম ও শুভেচ্ছা। প্রোগ্রামিং হচ্ছে কম্পিউটার বিজ্ঞানের একটি অংশ। প্রোগ্রামিং এর জ্ঞান দ্বারা কম্পিউটার কে নির্দিষ্ট কিছু কম্যান্ড এর মাধ্যমে নির্দিষ্ট কোনো কাজ করানো হয়। । এই টিউটোরিয়াল জোড়ে আমরা প্রোগ্রামিংয়ের মৌলিক বিষয় গুলো সম্পর্কে ধারণা লাভ করতে পারবো। প্রোগ্রামিং কেন প্রয়োজন এবং এর ব্যবহার কোথায় হয় সে সব বিষয় নিয়ে বিস্তারিত আলোচনা করা হয়েছে।"
     },
     {
       "title": "ভুলভ্রান্তি সম্পর্কে",
       "paragraph": "টিউটোরিয়াল গুলি তৈরি করার সময় অনিচ্ছাকৃতভাবে অনেক ভুল হয়ে থাকে। আর সে ভুল গুলি শুধরিয়ে দেওয়ার দায়িত্য হচ্ছে আপনাদের। আপনার সামান্য কান্ট্রিবিউশনের কারণে অনেক মানুষ হয়তো এই ভুল গুলি থেকে বেঁচে যেতে পারে। যদি কোনো ভুলভ্রান্তি তথ্য বা বানানগত ভুল পেয়ে থাকেন অনুগ্রহ করে আমাদের অফিসিয়াল গিটহাব প্রোফাইলে গিয়ে পুল রিকোয়েস্টের মাধ্যমে ভুল গুলি শুধরিয়ে দিয়ে ধন্য করবেন বলে আশা করছি। ধন্যবাদ।"
     }
   ],
-  "image": "/static/icons/js.png"
+  "image": ""
 }
